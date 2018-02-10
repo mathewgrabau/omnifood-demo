@@ -59,6 +59,7 @@ h1 {
     text-decoration: none;
     border-radius: 200px;
     transition: background-color 0.2s, color 0.2s, border 0.2s;
+    
 }
 
 /* Use a special styling when hovering/active */
@@ -73,6 +74,7 @@ h1 {
     background-color: #e67e22;
     border: 1px solid #e67e22;
     color: #fff;
+    margin-right: 15px;
 }
 
 .btn-ghost:link,
